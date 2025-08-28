@@ -14,5 +14,9 @@ public class Main {
         System.out.println("8. git switch -c /crear rama y posicionarnos  ");
         System.out.println("9. git checkout (en comillas en nombre de la rama) /cambiar de rama");
         System.out.println("10. git pull origin (en comillas en nombre de la rama) /cambios de remoto a local");
+
+        System.out.println("Laura Daniela Capera Vasquez");
+        System.out.println("Actualmente vivo en Chía");
+        System.out.println("Tengo una gata llamada Luna");
         }
     }
